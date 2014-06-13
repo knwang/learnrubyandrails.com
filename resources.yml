@@ -139,18 +139,6 @@
   description: Teach Object Oriented Ruby programming
 
 -
-  name: Pragmatic Studios
-  slug: pragmatic-studios
-  topics:
-    - Rails
-  url: http://pragmaticstudio.com
-  format: Classroom based in person training
-  categories:
-    - In Person Training
-  cost: $2295, discounts available
-  description: The Rails course - Learn the important features of Rails by creating a full-featured app from start to finish.
-
--
   name: The Rails Guides
   slug: the-rails-guides
   topics:
@@ -311,19 +299,6 @@
   format: 8 hours of live sessions over two days with presentationg and live coding.
   cost: $529 regular / $397 and $449 available for early birds
   description: Launch a web app while going through this course. Instructors available for consultation to tailor the workshop for students needs.
-
--
-  name: Jumpstart Lab
-  slug: jumpstart-lab
-  topics:
-    - Ruby
-    - Rails
-  categories:
-    - In Person Training
-  format: Classroom based in Personal Training
-  url: http://www.jumpstartlab.com
-  cost: Depends on desired customation
-  description: Jumpstart Lab offers customizable Ruby and Rails training. Introductory, intermediate and advanced topics for both Ruby and Rails are available.
 
 -
   name: Ruby Tapas
