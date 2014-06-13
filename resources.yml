@@ -1,4 +1,17 @@
 -
+  name: Introduction to Programming with Ruby
+  slug: introduction-to-programming-with-ruby
+  topics:
+    - Ruby
+  url: http://www.gotealeaf.com/books/ruby
+  format: Online tutorial
+  categories:
+    - Tutorials
+  snapshot_url: http://www.gotealeaf.com/books/ruby
+  cost: Free
+  description: Learn the basic foundational building blocks of programming, starting from the very beginning. Existing developers will be able to quickly pick up Ruby syntax, while new programmers will enjoy a smooth introduction to programming concepts.
+
+-
   name: Why's (Poignant) Guide to Ruby
   slug: whys-poignant-guide-to-ruby
   topics:
@@ -311,19 +324,6 @@
   url: http://www.jumpstartlab.com
   cost: Depends on desired customation
   description: Jumpstart Lab offers customizable Ruby and Rails training. Introductory, intermediate and advanced topics for both Ruby and Rails are available.
-
--
-  name: DaVinci Coders
-  slug: davinci-coders
-  topics:
-    - Ruby
-    - Rails
-  categories:
-    - Immersion Programs
-  format: Classroom based Immersion Programs
-  url: http://davincicoders.com/
-  cost: $6000
-  description: DaVinci Coders is a full-immersion 11-week classroom training program designed to teach people with drive and passion the fine art of computer programming.
 
 -
   name: Ruby Tapas

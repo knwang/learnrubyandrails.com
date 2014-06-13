@@ -4,7 +4,7 @@ require 'yaml'
 require 'json'
 
 IMGKit.configure do |config|
-  config.wkhtmltoimage = './bin/wkhtmltoimage-osx'
+  config.wkhtmltoimage = '/usr/local/bin/wkhtmltoimage'
   config.default_options = {
     :quality => 60,
     'load-error-handling' => 'ignore'
