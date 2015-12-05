@@ -61,6 +61,21 @@
   description: A set of exercises that lead to the enlightment of Ruby programming. Focuses on Ruby syntax, structure and common libraries. Good for experienced developers learning Ruby as another programming language.
 
 -
+  name: Launch School
+  slug: launchschool
+  topics:
+    - Ruby
+    - Rails
+  url: https://launchschool.com
+  format: An intensive online bootcamp to learn full stack web development.
+  categories:
+    - Online Courses
+  cost: Free to start, then $199 / month
+  course_type:
+    - Instructor Led
+  description: Launch School offers an online bootcamp for learning full stack web development. The program is about slowly building up proficiency in fundamentals, while at the same time exposing you to new workflows and practices. If you follow their curriculum and finish all the materials, they will work with you 1 on 1 to get jobs.
+
+-
   name: Ruby Learning
   slug: ruby-learning
   topics:
@@ -79,7 +94,7 @@
   slug: ruby-off-rails
   topics:
     - Ruby
-  url: https://rubyoffrails.com/
+  url: http://rubyoffrails.com/
   format: Live coding sessions, exercises, peer discussions and office hours
   cost: 530 regular / 420 early bird
   categories:
@@ -110,21 +125,6 @@
   url: http://railsapps.github.com
   cost: Free
   description: Example applications accompanied by in-depth tutorials that go beyond Rails lessons for beginners.
-
--
-  name: Launch School
-  slug: launchschool
-  topics:
-    - Ruby
-    - Rails
-  url: https://launchschool.com
-  format: An intensive online bootcamp to learn full stack web development.
-  categories:
-    - Online Courses
-  cost: Free to start, then $199 / month
-  course_type:
-    - Instructor Led
-  description: Launch School offers an online bootcamp for learning full stack web development. The program is about slowly building up proficiency in fundamentals, while at the same time exposing you to new workflows and practices. If you follow their curriculum and finish all the materials, they will work with you 1 on 1 to get jobs.
 
 -
   name: Pragmatic Studios
