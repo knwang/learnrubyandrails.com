@@ -3,11 +3,11 @@
   slug: introduction-to-programming-with-ruby
   topics:
     - Ruby
-  url: http://www.gotealeaf.com/books/ruby
+  url: https://launchschool.com/books/ruby
   format: Online tutorial
   categories:
     - Tutorials
-  snapshot_url: http://www.gotealeaf.com/books/ruby
+  snapshot_url: https://launchschool.com/books/ruby
   cost: Free
   description: Learn the basic foundational building blocks of programming, starting from the very beginning. Existing developers will be able to quickly pick up Ruby syntax, while new programmers will enjoy a smooth introduction to programming concepts.
 
@@ -112,19 +112,19 @@
   description: Example applications accompanied by in-depth tutorials that go beyond Rails lessons for beginners.
 
 -
-  name: Tealeaf Academy
-  slug: tealeaf-academy
+  name: Launch School
+  slug: launchschool
   topics:
     - Ruby
     - Rails
-  url: http://www.gotealeaf.com
-  format: An intensive online bootcamp to learn Ruby and Rails guided experienced developers.
+  url: https://launchschool.com
+  format: An intensive online bootcamp to learn full stack web development.
   categories:
     - Online Courses
-  cost: $475 / $610 / $1475 for courses on different levels
+  cost: Free to start, then $199 / month
   course_type:
     - Instructor Led
-  description: Tealeaf Academy offers an online bootcamp for learning web development with Ruby on Rails.It offers a 3-course program for people with differnet levels of experience. The "Introduction to Ruby and Web Development" covers Ruby in the context of Object Oriented Programming and the basic concepts of web development. The "Rapid Prototyping with Ruby on Rails" teaches the foundation of building modern web application with Ruby on Rails, and the "Build Production Quality Applications" teaches how to build well tested, robust and production ready apps.
+  description: Launch School offers an online bootcamp for learning full stack web development. The program is about slowly building up proficiency in fundamentals, while at the same time exposing you to new workflows and practices. If you follow their curriculum and finish all the materials, they will work with you 1 on 1 to get jobs.
 
 -
   name: Pragmatic Studios
